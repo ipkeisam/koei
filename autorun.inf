@@ -1,0 +1,7 @@
+[autorun]
+;open=.\sgportable\SGPortable.exe
+;action=Access encrypted files
+icon=sgportable\SGPortable.exe
+;label=SGPortable
+;shell\access=Access encrypted files
+;shell\access\command=".\sgportable\SGPortable.exe" 
